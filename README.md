@@ -16,7 +16,7 @@
 - 🥈 **Silver Prize** at *Thailand Inventor's Day 2024* (Project: SHELLEA)  
 - 🧠 Strong background in algorithms, logic, and database design  
 - 🔐 Fascinated by cryptography and problem-solving puzzles  
-- 🗂️ Building real-world apps like `InvestasiApp` and e-commerce systems  
+- 🗂️ Building real-world apps like `GoInvest` and e-commerce systems  
 - 🗣️ Open to collaboration on open-source or research-based tech projects  
 
 ---
