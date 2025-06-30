@@ -53,7 +53,7 @@ Soft Skills:
 
 ### 🧪 Projects You Should See
 
-- 🎮 **InvestasiApp** – Java-based console application for simulating investment in stocks and bonds  
+- 🎮 **GoInvest** – Java-based console application for simulating investment in stocks and bonds (listed as Tugas-PBO-1).  
 
 ---
 
