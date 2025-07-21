@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I Gusti Bagus Narendratanaya Wiweka</h1>
+<h1 align="center">Hi, I'm I Gusti Bagus Narendratanaya Wiweka👋</h1>
 <h3 align="center">🏫 IT Undergraduate | 🧠 Innovator | 🧩 Software Builder</h3>
 
 <p align="center">
@@ -84,5 +84,5 @@ Soft Skills:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=narenwiweka&label=Profile%20views&color=0e75b6&style=flat" alt="BagusNaren" />
+  <img src="https://img.shields.io/badge/Eyes%20on%20Me-👁️%20%2B1-orange?style=for-the-badge" alt="Eye Badge" />
 </p>
