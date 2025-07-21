@@ -53,7 +53,8 @@ Soft Skills:
 
 ### 🧪 Projects You Should See
 
-- 🎮 **GoInvest** – Java-based console application for simulating investment in stocks and bonds (listed as Tugas-PBO-1).  
+- 🎮 **GoInvest** – Java-based console application for simulating investment in stocks and bonds (listed as Tugas-PBO-1).
+- 🏡 **Java Backend API – Sistem Pemesanan Villa** – RESTful API for managing villa bookings using Java, MySQL, and MVC architecture (listed as Tugas-PBO-2).
 
 ---
 
