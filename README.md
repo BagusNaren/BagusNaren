@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm I Gusti Bagus Narendratanaya Wiweka👋</h1>
-<h3 align="center">🏫 IT Undergraduate | 🧠 Innovator | 🧩 Software Builder</h3>
+<h3 align="center">🏫 IT Undergraduate | 🧠 Innovator | 🧩 Web Developer</h3>
 
 <p align="center">
   🎓 Information Technology Student at Udayana University <br>
@@ -28,7 +28,7 @@ Languages:
   - C, C++, Java, Python, JavaScript
 
 Web Development:
-  - HTML5, CSS3, Bootstrap, Node.js, EJS
+  - HTML5, CSS3, Bootstrap, React.js, Vue.js
 
 Databases:
   - MongoDB, MySQL, SQLite
@@ -37,7 +37,7 @@ Tools & Platforms:
   - Git & GitHub, Postman, IntelliJ IDEA, Visual Studio Code, Figma
 
 Soft Skills:
-  - Leadership, Public Speaking, Competitive Teamwork
+  - Leadership, Self-Management, Competitive Teamwork
 
 ```
 
