@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm I Gusti Bagus Narendratanaya Wiweka👋</h1>
+<h1 align="center">Hi, I'm Naren👋</h1>
 <h3 align="center">🏫 IT Undergraduate | 🧠 Innovator | 🧩 Web Developer</h3>
 
 <p align="center">
