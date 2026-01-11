@@ -41,12 +41,52 @@ Soft Skills:
 
 ```
 
-### 📊 GitHub Stats
+## 🚀 GitHub Overview
+
+### 📈 GitHub Activity
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=BagusNaren&theme=react-dark&hide_border=true"
+  />
+</p>
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BagusNaren&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BagusNaren&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Node_JS-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express_JS-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth_2.0-3C3C3D?style=for-the-badge&logo=openid&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nodemailer-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Leaflet_JS-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -55,6 +95,7 @@ Soft Skills:
 
 - 🎮 **GoInvest** – Java-based console application for simulating investment in stocks and bonds (listed as Tugas-PBO-1).
 - 🏡 **Java Backend API – Sistem Pemesanan Villa** – RESTful API for managing villa bookings using Java, MySQL, and MVC architecture (listed as Tugas-PBO-2).
+- 🌏 **JejakBudaya – Cultural Digital Mapping Web Application** – Full-stack web application for exploring, documenting, and contributing Indonesian cultural heritage through an interactive digital map (listed as Project-Pemrograman-Internet).
 
 ---
 
