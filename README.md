@@ -13,7 +13,8 @@
 
 - 🧑‍🎓 Currently studying IT at Udayana University  
 - 🥇 **Gold Medalist & Best Project** at *I2ASPO 2023* (Project: BRIANDS)  
-- 🥈 **Silver Prize** at *Thailand Inventor's Day 2024* (Project: SHELLEA)  
+- 🥈 **Silver Prize** at *Thailand Inventor's Day 2024* (Project: SHELLEA)
+- 🥈 **Silver Medal** at *2nd International Student Competition 2026* (Project: PNEUMOTrack)  
 - 🧠 Strong background in algorithms, logic, and database design  
 - 🔐 Fascinated by cryptography and problem-solving puzzles  
 - 🗂️ Building real-world apps like `GoInvest` and e-commerce systems  
