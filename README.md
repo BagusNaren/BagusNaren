@@ -1,10 +1,9 @@
-<h1 align="center">Hi, I'm Naren👋</h1>
-<h3 align="center">🏫 IT Undergraduate | 🧠 Innovator | 🧩 Web Developer</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%2C%20I'm%20Naren&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=IT%20Undergraduate%20%7C%20Innovator%20%7C%20Web%20Developer&descSize=18&descAlignY=58" width="100%" alt="Header" />
+</p>
 
 <p align="center">
-  🎓 Information Technology Student at Udayana University <br>
-  🏆 Multi-award winner in international innovation & science competitions <br>
-  💻 Passionate about Java, C, C++, cybersecurity, and creative software solutions
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Information+Technology+@+Udayana+University;Multi-award+winner+in+innovation+%26+science;Java+%7C+C+%7C+C%2B%2B+%7C+Cybersecurity" alt="Typing animation" />
 </p>
 
 ---
@@ -46,9 +45,11 @@ Soft Skills:
 
 ### 📈 GitHub Activity
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=BagusNaren&theme=react-dark&hide_border=true"
-  />
+  <img src="https://ghchart.rshah.org/58a6ff/BagusNaren" alt="BagusNaren's GitHub contribution chart" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BagusNaren&theme=github-dark&hide_border=true" alt="GitHub streak stats" />
 </p>
 
 ---
@@ -107,6 +108,7 @@ Soft Skills:
 | I2ASPO 2023 (Indonesia)        | 🥇 Gold + Best Project    | BRIANDS – Bone-strengthening food   |
 | Thailand Inventor’s Day 2024   | 🥈 Silver Prize           | SHELLEA – Eco-friendly cement       |
 | KSSI 2024 by GEMANESIA         | 🥇 Gold Medal – Informatics | Logic, Algorithms & Efficiency     |
+| 2nd ISC 2026 in Kuala Lumpur   | 🥈 Silver Medal           | PNEUMOTrack - IoMT for Pneumonia    |
 
 ---
 
@@ -126,5 +128,5 @@ Soft Skills:
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Eyes%20on%20Me-👁️%20%2B1-orange?style=for-the-badge" alt="Eye Badge" />
+  <img src="https://hits.sh/github.com/BagusNaren.svg?style=for-the-badge&label=Eyes%20on%20Me%20%F0%9F%91%81%EF%B8%8F&color=orange&labelColor=1f1f1f" alt="Eyes on Me" />
 </p>
